@@ -34,7 +34,7 @@ module.exports = {
 
   // determines which commands the bot loads
   enabledCommands: {
-    enableAll: 0, //overrides everything else in enabled commands and allows all commands
+    enableAll: 1, //overrides everything else in enabled commands and allows all commands
 
     // custom commands
     custom: 0,
